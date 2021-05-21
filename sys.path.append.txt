@@ -1,0 +1,1 @@
+sys.path.append('C:\\Users\\kklis\\OneDrive\\바탕 화면\\2021 -2 -1학기\\파이썬\\chap9')
